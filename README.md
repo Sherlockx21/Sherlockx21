@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+### I'm Sherlock Xu, an ordinary student in HDU.🌱 I’m currently learning something on BE.
 
 <!--
 **Sherlockx21/Sherlockx21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
