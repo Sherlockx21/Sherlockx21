@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Sherlockx21&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sherlockx21&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlockx21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
