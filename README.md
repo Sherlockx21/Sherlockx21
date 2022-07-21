@@ -37,8 +37,12 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
-</div>
+
+<!-- GitHub Activity Graph -->
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
