@@ -37,4 +37,8 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-
+<!-- plugin metrics -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Sherlockx21/Sherlockx21/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://cdn.jsdelivr.net/gh/Sherlockx21/photos/images/202111021926704.png"/>
+</div>
