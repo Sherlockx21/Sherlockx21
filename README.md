@@ -1,5 +1,5 @@
 ## Hi there 👋
- I'm Sherlock Xu, an ordinary student in HDU, majoring in Software Engineering. 🌱 I’m currently learning something on BE.
+ I'm Sherlock Xu, an ordinary student in HDU, majoring in Software Engineering. 🌱 I’m currently learning something on WEB.
 
 
 <!--
