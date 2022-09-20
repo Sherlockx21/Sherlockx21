@@ -1,6 +1,6 @@
 ## Hi there 👋
  I'm Sherlock Xu, an ordinary student in HDU, majoring in Software Engineering. 🌱 I’m currently learning something on WEB Development.
-
+*********
 
 <!--
 **Sherlockx21/Sherlockx21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can contact me through:
 
 <br>
 
