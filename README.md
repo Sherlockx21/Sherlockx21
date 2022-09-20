@@ -1,5 +1,5 @@
 ## Hi there 👋
- I'm Sherlock Xu, an ordinary student in HDU, majoring in Software Engineering. 🌱 I’m currently learning something on WEB.
+ I'm Sherlock Xu, an ordinary student in HDU, majoring in Software Engineering. 🌱 I’m currently learning something on WEB Development.
 
 
 <!--
@@ -41,16 +41,14 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-35363A?style=plasticre&logo=Java)
 ![MySQL](https://img.shields.io/badge/-Mysql-35363A?style=plastic&logo=mysql&logoColor=#4479A1)
 ![Go](https://img.shields.io/badge/-Go-35363A?style=plastic&logo=go&logoColor=#00ADD8)
+![Spring](https://img.shields.io/badge/-Spring-35363A?style=plastic&logo=spring&logoColor=#6DB33F)
 
 
 
 🧠 计划学习:
 
 &emsp;&emsp;
-![Vue.js Badge](https://img.shields.io/badge/-Vue.js-35363A?style=flat-square&logo=Vue.js&logoColor=4FC08D)
-![React.js Badge](https://img.shields.io/badge/-React-35363A?style=flat-square&logo=React&logoColor=#61DAFB)
-![Node.js Badge](https://img.shields.io/badge/-Node.js-35363A?style=flat-square&logo=Node.js&logoColor=339933)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-35363A?style=flat-square&logo=Node.js&logoColor=339933)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 
 
