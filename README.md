@@ -63,3 +63,4 @@ Here are some ideas to get you started:
 ![Goland](https://img.shields.io/badge/-Goland-#1BDBDB?style=plastic&logo=GoLand)
 ![IDEA](https://img.shields.io/badge/-IDEA-#1BDBDB?style=plastic&logo=IntelliJIDEA)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-#1BDBDB?style=plastic&logo=PyCharm)
+![PyCharm Badge](https://img.shields.io/badge/-PyCharm-35363A?style=flat-square&logo=PyCharm&logoColor=57BDD7)
