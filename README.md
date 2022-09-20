@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 💪 正在学习: 
 
 &emsp;&emsp;
-![C](https://img.shields.io/badge/-C-35363A?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-35363A?style=plastic&logo=c)
-![Python](https://img.shields.io/badge/-Python-35363A?style=plastic&logo=Python)
-![Java](https://img.shields.io/badge/-Java-35363A?style=plasticre&logo=java)
-![MySQL](https://img.shields.io/badge/-Mysql-35363A?style=plastic&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/-C-35363A?style=plastic&logo=c&logoColor=#A8B9CC)
+![C++](https://img.shields.io/badge/-C++-35363A?style=plastic&logo=c++&logoColor=#00599C)
+![Python](https://img.shields.io/badge/-Python-35363A?style=plastic&logo=Python&logoColor=#3776AB)
+![Java](https://img.shields.io/badge/-Java-35363A?style=plasticre&logo=Java)
+![MySQL](https://img.shields.io/badge/-Mysql-35363A?style=plastic&logo=mysql&logoColor=#4479A1)
 ![Go](https://img.shields.io/badge/-Go-35363A?style=plastic&logo=go&logoColor=#00ADD8)
 
 
