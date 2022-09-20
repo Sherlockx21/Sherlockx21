@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <br>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Sherlockx21&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<div align="left"><img  src="https://github-profile-trophy.vercel.app/?username=Sherlockx21&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
-<div align="center">
+<div align="right">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Sherlockx21&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlockx21&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
