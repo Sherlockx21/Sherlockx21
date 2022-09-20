@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=plastic&logo=github)
 ![Goland](https://img.shields.io/badge/-Goland-#1BDBDB?style=plastic&logo=GoLand)
-![IDEA](https://img.shields.io/badge/-IDEA-#1BDBDB?style=plastic&logo=IntelliJ IDEA)
+![IDEA](https://img.shields.io/badge/-IDEA-#1BDBDB?style=plastic&logo=IntelliJIDEA)
