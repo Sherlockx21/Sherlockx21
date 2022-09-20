@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <!-- GitHub数据统计 -->
 <div align="left">
   <img height="160px" width="50%" src="https://github-readme-stats.vercel.app/api?username=Sherlockx21&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" />
+</div>
+<div align="right">
   <img height="160px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlockx21&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
 <br>
