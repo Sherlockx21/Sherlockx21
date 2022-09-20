@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=plastic&logo=GoogleChrome&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=plastic&logo=github)
-![PyCharm](https://img.shields.io/badge/-IntelliJ IDEA-35363A?style=plastic&logo=IntelliJIDEA&logoColor=57BDD7)
-![Goland](https://img.shields.io/badge/-GoLand-35363A?style=flat-square&logo=goland&logoColor=57BDD7)
+![Idea](https://img.shields.io/badge/-IntelliJIDEA-35363A?style=plastic&logo=IntelliJIDEA&logoColor=57BDD7)
+![Goland](https://img.shields.io/badge/-GoLand-35363A?style=plastic&logo=goland&logoColor=57BDD7)
