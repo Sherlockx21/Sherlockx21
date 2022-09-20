@@ -49,14 +49,16 @@ Here are some ideas to get you started:
 🧠 计划学习:
 
 &emsp;&emsp;
-![Node.js](https://img.shields.io/badge/-Node.js-35363A?style=flat-square&logo=Node.js&logoColor=339933)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Node.js](https://img.shields.io/badge/-Node.js-35363A?style=plastic&logo=Node.js&logoColor=339933)
+![Docker](https://img.shields.io/badge/-Docker-35363A?style=plastic&logo=docker)
 
 
 🧰 常用的工具:
 
 &emsp;&emsp; 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=plasticre&logo=windows&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=plastic&logo=GoogleChrome&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=plastic&logo=github)
+![Goland](https://img.shields.io/badge/-Goland-#1BDBDB?style=plastic&logo=goland)
+![IDEA](https://img.shields.io/badge/-IDEA-#1BDBDB?style=plastic&logo=idea)
