@@ -62,3 +62,4 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=plastic&logo=github)
 ![Goland](https://img.shields.io/badge/-Goland-#1BDBDB?style=plastic&logo=GoLand)
 ![IDEA](https://img.shields.io/badge/-IDEA-#1BDBDB?style=plastic&logo=IntelliJIDEA)
+![Pycharm](https://img.shields.io/badge/-Pycharm-#1BDBDB?style=plastic&logo=pycharm)
