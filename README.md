@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+You can contact me through:
+
 <br>
 
 <!-- GitHub奖杯🏆 -->
