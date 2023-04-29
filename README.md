@@ -1,5 +1,4 @@
-<h1 align="center">Hi👋,this is NekoCBF</h1>
-
+### Hi👋 I'm NekoCBF !
 
 I'm NekoCBF, an ordinary student in `HDU`, majoring in Software Engineering. I'm a backend developer familiar with ![Java](https://img.shields.io/badge/-Java-35363A?style=plasticre&logo=Java) and ![Go](https://img.shields.io/badge/-Go-35363A?style=plastic&logo=go&logoColor=#00ADD8).
 And I'm highly interested in some open-source project.
@@ -20,17 +19,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=megrax&show_icons=true&theme=buefy&count_private=true" align="right" width="420"/>
+
+
+
+- 👨🏻‍💻 Simple student from HDU.
+- 📕 Currently learning [![Go](https://img.shields.io/badge/Go-000000?logo=go)](https://).
+- 😋 Enjoy working on Back-End development.
+- 😄 Interested in some open-source project.
+- 📫 How to reach me:  sherlockx21@163.com  or chlorine1735.5@gmail.com
+- ⚡ I'm also a tyro in Locking!
 
 <br>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Sherlockx21&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
-
-<!-- GitHub数据统计 -->
-<a href="https://github.com/Sherlockx21">
-  <img height="180em" src="https://github-readme-stats-rouge-pi.vercel.app/api?username=Sherlockx21&theme=buefy&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-rouge-pi.vercel.app/api/top-langs/?username=Sherlockx21&theme=buefy&layout=compact&hide_border=true" />
-</a>
 
 
