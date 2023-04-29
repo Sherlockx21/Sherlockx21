@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 
-💪 正在学习: 
+💪 技术栈: 
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/-C-35363A?style=plastic&logo=c&logoColor=#A8B9CC)
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 &emsp;&emsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-35363A?style=plastic&logo=Node.js&logoColor=339933)
 ![Docker](https://img.shields.io/badge/-Docker-35363A?style=plastic&logo=docker)
+![Vue](https://img.shields.io/badge/-Vue-35363A?style=plastic&logo=Vue&logoColor=339933)
 
 
 🧰 常用的工具:
