@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!-- GitHub数据统计 -->
 <a href="https://github.com/Sherlockx21">
   <img height="180em" src="https://github-readme-stats-rouge-pi.vercel.app/api?username=Sherlockx21&theme=buefy&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-rouge-pi.vercel.app/api/top-langs/?username=Sherlockx21e&theme=buefy&layout=compact&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-rouge-pi.vercel.app/api/top-langs/?username=Sherlockx21&theme=buefy&layout=compact&hide_border=true" />
 </a>
 
 
