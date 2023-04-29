@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=megrax&show_icons=true&theme=buefy&count_private=true" align="right" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sherlockx21&show_icons=true&theme=buefy&count_private=true" align="right" width="420"/>
 
 
 
