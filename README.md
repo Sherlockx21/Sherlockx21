@@ -1,8 +1,5 @@
 ### Hi👋 I'm NekoCBF !
 
-I'm NekoCBF, an ordinary student in `HDU`, majoring in Software Engineering. I'm a backend developer familiar with ![Java](https://img.shields.io/badge/-Java-35363A?style=plasticre&logo=Java) and ![Go](https://img.shields.io/badge/-Go-35363A?style=plastic&logo=go&logoColor=#00ADD8).
-And I'm highly interested in some open-source project.
-
 
 <!--
 **Sherlockx21/Sherlockx21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
